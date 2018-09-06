@@ -8,3 +8,5 @@ Code for the Carleton College Weather Station
 
 
 [Site Preview](https://www.youtube.com/watch?v=xpv3WDESVF0&feature=youtu.be)
+
+*sensitve information, and crucial sections have been redacted thought the code.
